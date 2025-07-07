@@ -1,16 +1,21 @@
-## Hi there 👋
+# DefiveninthLabs LLC
 
-<!--
-**DefiveninthLabs/DefiveninthLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DefiveninthLabs** is a private web studio and global development team focused on building products at the edge of innovation.
 
-Here are some ideas to get you started:
+## Who We Are
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We are a distributed team of 20+ professionals — including engineers, legal experts, and financial strategists — working from across the world. Our approach blends technical expertise with deep domain knowledge across emerging and traditional sectors.
+
+## What We Do
+
+- Invest on Private Start-ups
+- DeFi & Web3 Protocol Engineering
+- E-commerce & Retail Platforms
+- Legal-Tech & Financial Automation
+- Private B2B Digital Solutions
+
+## Get In Touch
+
+Interested in working with us or joining the team?
+
+📩 **defiveninthlabs@capitalclub.com**
